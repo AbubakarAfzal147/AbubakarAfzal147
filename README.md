@@ -1,4 +1,12 @@
-# 💫 About Me:
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD4?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logo# 💫 About Me:
 Hi there! I'm Muhammad Abubbakar<br><br>🎓 Zoology graduate with a strong passion for Data Science & Scientific Computing.<br>💻 Skilled in Python, NumPy, Pandas, Matplotlib & Seaborn — turning biological data into meaningful insights.<br><br>I love exploring the intersection of Biology 🧪 + Programming 🖥️, where data tells the story of life. From analyzing research datasets to visualizing complex patterns, I enjoy solving real-world biological problems using code.<br><br>🔬 What I Do:<br><br>Data Analysis using Python<br><br>Scientific Computing with NumPy<br><br>Data Manipulation & Cleaning using Pandas<br><br>Data Visualization through Matplotlib & Seaborn<br><br>Exploring Biological & Environmental Data<br><br>🚀 Current Goal:<br><br>To grow as a Bioinformatics / Data Science professional and contribute to impactful research & open-source projects.<br><br>📊 Fun Fact:<br><br>I believe every dataset has a hidden ecosystem waiting to be discovered!
 
 
