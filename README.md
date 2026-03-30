@@ -20,63 +20,130 @@ I have experience in **web development and data science**, and I continuously le
 
 ---
 
-## 🧠 Tech Stack & Tools
+# 🧠 Tech Stack & Tools
 
----
+<table align="center">
+<tr>
 
-### 💻 Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python" />
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>HTML
+</td>
 
----
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS
+</td>
 
-### 🤖 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch" />
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
+</td>
 
----
+<td align="center">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>ML
+</td>
 
-### 📊 Data & Visualization
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-</p>
+<td align="center">
+<img src="https://img.icons8.com/color/48/deep-learning.png"/><br>DL
+</td>
 
----
+</tr>
 
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-</p>
+<tr>
 
----
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br>NumPy
+</td>
 
-### 🎨 Design & Editing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/InShot-FF2D55?style=for-the-badge" />
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br>Pandas
+</td>
 
----
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br>Matplotlib
+</td>
 
-### 🎥 Communication & Apps
-<p align="center">
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DeepSeek-blue?style=for-the-badge" />
-</p>
+<td align="center">
+<img src="https://img.icons8.com/color/48/data-configuration.png"/><br>Seaborn
+</td>
 
----
+<td align="center">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>Scikit-learn
+</td>
 
-### ⚙️ Others
-<p align="center">
-  <img src="https://img.shields.io/badge/Ferola-grey?style=for-the-badge" />
-</p>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60"/><br>PyCharm
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>VS Code
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/><br>Jupyter
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60"/><br>Colab
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/source-code.png"/><br>Programiz
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>Ferola
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/chatgpt.png"/><br>ChatGPT
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>DeepSeek
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>GitHub
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/adobe-photoshop.png"/><br>Adobe
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/notion.png"/><br>Notion
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/video-editing.png"/><br>CapCut
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/canva.png"/><br>Canva
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/zoom.png"/><br>Zoom
+</td>
+
+</tr>
+
+</table>
 # 🔗 Connect with Me
 
 <p align="center">
