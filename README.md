@@ -19,7 +19,6 @@ I combine my biological knowledge with modern technology to explore intelligent 
 I have experience in **web development and data science**, and I continuously learn and build innovative projects using AI tools and programming.
 
 ---
-
 # 🧠 Tech Stack & Tools
 
 <table align="center">
@@ -38,11 +37,11 @@ I have experience in **web development and data science**, and I continuously le
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>ML
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-big-data-flaticons-lineal-color-flat-icons.png"/><br>ML
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/deep-learning.png"/><br>DL
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-deep-learning-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png"/><br>DL
 </td>
 
 </tr>
@@ -62,7 +61,7 @@ I have experience in **web development and data science**, and I continuously le
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/data-configuration.png"/><br>Seaborn
+<img src="https://img.icons8.com/color/48/statistics.png"/><br>Seaborn
 </td>
 
 <td align="center">
@@ -98,7 +97,7 @@ I have experience in **web development and data science**, and I continuously le
 <tr>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>Ferola
+<img src="https://img.icons8.com/color/48/mind-map.png"/><br>Ferola
 </td>
 
 <td align="center">
@@ -106,7 +105,7 @@ I have experience in **web development and data science**, and I continuously le
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>DeepSeek
+<img src="https://img.icons8.com/fluency/48/brain.png"/><br>DeepSeek
 </td>
 
 <td align="center">
