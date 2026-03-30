@@ -48,6 +48,7 @@ I have experience in **web development and data science**, and I continuously le
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
 <img src="https://img.icons8.com/color/48/machine-learning.png"/>
 <img src="https://img.icons8.com/color/48/deep-learning.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
 
 <!-- Design -->
 <img src="https://img.icons8.com/color/48/canva.png"/>
