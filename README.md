@@ -22,40 +22,43 @@ I have experience in **web development and data science**, and I continuously le
 
 # 🛠️ Skill Set
 
+## 💻 Programming & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode,pycharm,notion" />
 </p>
 
+## 🤖 AI / Data Science
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Numpy-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-lightblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Numpy-yellow?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-lightblue?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly" />
   <img src="https://img.shields.io/badge/Seaborn-darkblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-red?style=for-the-badge&logo=scikitlearn" />
 </p>
 
+## 🧪 Development Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google-Colab-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/Google-Colab-yellow?style=for-the-badge&logo=googlecolab" />
   <img src="https://img.shields.io/badge/Programiz-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ferola-grey?style=for-the-badge" />
 </p>
 
+## 🎨 Design & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva" />
+  <img src="https://img.shields.io/badge/CapCut-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe-red?style=for-the-badge&logo=adobe" />
+  <img src="https://img.shields.io/badge/Zoom-blue?style=for-the-badge&logo=zoom" />
+</p>
+
+## 🤖 AI Tools
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DeepSeek-black?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CapCut-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zoom-blue?style=for-the-badge" />
-</p>
-
----
 
 # 🔗 Connect with Me
 
