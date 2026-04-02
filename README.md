@@ -1,14 +1,7 @@
 <a href="https://github.com/Muhammad-Abubakar147">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=AbubakarAfzal147&data=followers,repositories,stars,commits&theme=rgb">
 </a>
-<!-- 🔥 PROFILE HEADER -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abubakar147&theme=dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Abubakar147&theme=github_dark" />
-</p>
 
 ---
 
@@ -156,4 +149,12 @@ I have experience in **web development and data science**, and I continuously le
   <a href="https://github.com/Muhammad-Abubakar147">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
+</p>
+<!-- 🔥 PROFILE HEADER -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abubakar147&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Abubakar147&theme=github_dark" />
 </p>
