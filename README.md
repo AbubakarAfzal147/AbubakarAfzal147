@@ -6,7 +6,8 @@ Here are some of the certifications and achievements I have earned:
 **Saylor Academy**  
 Completed Python course successfully.
 
-[📄 View Certificate](YOUR_SAYLOR_ACADEMY_CERTIFICATE_LINK_HERE)
+[📄 View Certificate](![CS50x Puzzle Day 2026](https://github.com/user-attachments/assets/7dac4496-649f-403b-aa33-f5ff85457ad5)
+)
 
 ---
 
