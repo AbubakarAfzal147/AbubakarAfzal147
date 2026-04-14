@@ -27,6 +27,24 @@ Successfully completed the course.
 [📄 View Certificate](YOUR_CALICO_CERTIFICATE_LINK_HERE)
 
 ---
+<td align="center">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/artificial-intelligence.png"/><br>Gamma
+</td>
 
+<td align="center">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/chatbot.png"/><br>Claude
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/kaggle.png"/><br>Kaggle
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/artificial-intelligence.png"/><br>Grok
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/artificial-intelligence.png"/><br>Nano (AI)
+</td>
 # 👋 Hi, I'm Muhammad Abubakar
 
