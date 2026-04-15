@@ -1,32 +1,8 @@
-# 🏆 My Achievements
-
-Here are some of the certifications and achievements I have earned:
-
----
-
-### 1. Python Programming  
-**Saylor Academy**  
-Completed Python course successfully.
-
-[📄 View Certificate](https://learn.saylor.org/admin/tool/certificate/index.php?code=3588314027MA)
-
----
-
-### 2. Harvard CS50x Puzzle Day 2026  
-**Harvard University**  
-Participated and received certificate in Puzzle Day 2026.
-
-[📄 View Certificate](https://cs50.harvard.edu/certificates/511c117b-3c13-4b8d-85a1-1cd97ecf0233)
-
----
-
-### 3. Calico Course Certificate  
-**Calico**  
-Successfully completed the course.
-
-[📄 View Certificate](YOUR_CALICO_CERTIFICATE_LINK_HERE)
-
----
-
-# 👋 Hi, I'm Muhammad Abubakar
-
+ ## Connect with me🤝:
+<div align="center">
+    <a href="https://muhammad-arham.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/arhamansari12/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:arham96100@gmail.com"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!--     <a href="https://leetcode.com/u/arhamansari11/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a> -->
+    <a href="https://lablab.ai/u/@Arhamansari" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+</div>
