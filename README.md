@@ -3,18 +3,24 @@
 </a>
 
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🚀 Connect With Me</h2>
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
   </a>
+
 </p>
