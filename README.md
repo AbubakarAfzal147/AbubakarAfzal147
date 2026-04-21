@@ -3,58 +3,10 @@
 </a>
 <h1 align="center">📊 NumPy Project Repository</h1>
 
+  <h2><i>⚙️ GitHub Analytics</i></h2>
+
 <p align="center">
-  Welcome to my NumPy repository! 🚀 <br>
-  This repository contains my practice and projects built using <b>NumPy (Numerical Python)</b>.
-</p>
-
-<hr>
-
-<h2>📌 About This Repository</h2>
-<p>
-This repo is created to store and organize my NumPy learning journey and practice work.<br>
-It includes basic to intermediate level concepts while improving my data analysis skills.
-</p>
-
-<hr>
-
-<h2>🛠️ Technologies Used</h2>
-<ul>
-  <li>Python 🐍</li>
-  <li>NumPy 📊</li>
-</ul>
-
-<hr>
-
-<h2>📂 What You Will Find Here</h2>
-<ul>
-  <li>NumPy basics</li>
-  <li>Array creation & manipulation</li>
-  <li>Indexing & slicing</li>
-  <li>Mathematical operations</li>
-  <li>Practice exercises</li>
-  <li>Mini projects</li>
-</ul>
-
-<hr>
-
-<h2>🎯 Goal</h2>
-<p>
-To build a strong foundation in NumPy for Data Science and Machine Learning.
-</p>
-
-<hr>
-
-<h2>▶️ How to Use</h2>
-<ol>
-  <li>Clone the repository</li>
-  <li>Open in VS Code or Jupyter Notebook</li>
-  <li>Run and explore step by step</li>
-</ol>
-
-<hr>
-
-<h2>⭐ Support</h2>
-<p>
-If you find this helpful, give it a star ⭐
-</p>
+<a href="https://github.com/Muhammad-Abubakar147">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammad-Abubakar147&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Abubakar147&layout=compact&langs_count=8&theme=algolia"/>
+</a>
