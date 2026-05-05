@@ -10,8 +10,7 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammad-Abubakar147&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Abubakar147&layout=compact&langs_count=8&theme=algolia"/>
 <p align="left">
-  <p align="left">
- https://skills.syvixor.com/api/icons?perline=15&i=grok,numpy,pandas,html,kaggle,css,python,matplotlib,seaborn,scikitlearn,pycharm,canva,csv,visualstudiocode,googlecolaboratory,chatgpt,git,github,deepseek,notion,capcut,adobephotoshop,jupyter,tensorflow,pytorch,gmail,figma,leetcode,netlify,discord,perplexity,claudeai,googlegemini />
+ <img src=https://skills.syvixor.com/api/icons?perline=15&i=grok,numpy,pandas,html,kaggle,css,python,matplotlib,seaborn,scikitlearn,pycharm,canva,csv,visualstudiocode,googlecolaboratory,chatgpt,git,github,deepseek,notion,capcut,adobephotoshop,jupyter,tensorflow,pytorch,gmail,figma,leetcode,netlify,discord,perplexity,claudeai,googlegemini />
 </p>
 </a>
 
