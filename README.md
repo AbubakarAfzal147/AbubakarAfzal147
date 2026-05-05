@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Abubakar147&layout=compact&langs_count=8&theme=algolia"/>
 <p align="left">
   <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=kaggle,grok,numpy,pandas,powershell" />
+ https://skills.syvixor.com/api/icons?perline=15&i=grok,numpy,pandas,html,kaggle,css,python,matplotlib,seaborn,scikitlearn,pycharm,canva,csv,visualstudiocode,googlecolaboratory,chatgpt,git,github,deepseek,notion,capcut,adobephotoshop,jupyter,tensorflow,pytorch,gmail,figma,leetcode,netlify,discord,perplexity,claudeai,googlegemini />
 </p>
 </a>
 
