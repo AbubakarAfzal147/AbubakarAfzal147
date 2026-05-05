@@ -9,6 +9,9 @@
 <a href="https://github.com/Muhammad-Abubakar147">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammad-Abubakar147&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Abubakar147&layout=compact&langs_count=8&theme=algolia"/>
+<p align="left">
+  <p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=kaggle,grok,numpy,pandas,powershell" />
+</p>
 </a>
 
-https://skills.syvixor.com/api/icons?perline=15&i=kaggle,grok,numpy,pandas
