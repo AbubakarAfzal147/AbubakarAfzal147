@@ -16,18 +16,31 @@
 
 <div align="center">
 
-# ⚡ I'm Muhammad Abubakar ⚡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Zoologist+%7C+Python+Developer+%F0%9F%A6%8C;Machine+Learning+%26+Deep+Learning+Engineer+%F0%9F%A7%A0;Generative+AI+Explorer+%7C+LLM+Builder+%F0%9F%94%A5;Data+Science+with+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn+%F0%9F%93%8A;Turning+Data+into+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
 
 <div align="center">
 
-**⭐ If you find my work interesting, please star my repositories!**
+---
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+## 🚀 Let’s Build Something Amazing Together
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Open+to+Collaborations+%F0%9F%A4%9D;Always+Learning+New+Technologies+%F0%9F%93%9A;Turning+Ideas+into+AI+Solutions+%F0%9F%94%A5)
+
+---
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
+---
+
+### ⭐ Support My Work
+
+**If you like my projects, consider giving a star ⭐ to my repositories — it keeps me motivated!**
+
+![Wave Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
