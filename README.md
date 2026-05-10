@@ -18,9 +18,8 @@
 
 # I'm Muhammad Abubakar 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Zoologist+%7C+Python+Developer;Machine+Learning+%26+Deep+Learning+Enthusiast;Generative+AI+Explorer+%7C+AI+Developer;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=I+am+a+Zoologist+%7C+Python+Developer;I+am+a+Machine+Learning+%26+Deep+Learning+Enthusiast;I+am+a+Generative+AI+Explorer+%7C+AI+Developer;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
