@@ -44,3 +44,12 @@
 ![Wave Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+[![Abubakar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Abubakar147=tokyo-night&hide_border=true&area=true&area_color=38BDF8&color=38BDF8&line=38BDF8&point=ffffff&custom_title=Sufiyan%27s%20Contribution%20Activity)](https://github.com/Muhammad-Abubakar147)
+
+</div>
+
+---
