@@ -53,3 +53,39 @@
 </div>
 
 ---
+
+```html
+<h2 align="center">⚡ GitHub Stats & Activity ⚡</h2>
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=bkbilal009&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bkbilal009&count_private=true&theme=react&border_radius=10" 
+    height="170"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bkbilal009&langs_count=8&layout=compact&theme=react&border_radius=10" 
+    height="170"
+  />
+</p>
+
+<hr>
+
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=650&height=70&duration=4000&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Projects+%26+Learning+Everyday+🚀;Open+to+Collaboration+%26+Opportunities"
+  />
+</h2>
+```
+
