@@ -1,6 +1,8 @@
 
+
+
 <div align="center">
-  <img src="./svg/header.svg" width="100%" alt="Muhammad Abubakar — AI Engineer | Machine Learning | Python - developer" />
+  <img src="./svg/header.svg" width="100%" alt="THRINADH.DEV — System Portal" />
 </div>
 
 
