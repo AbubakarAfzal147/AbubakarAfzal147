@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="./svg/header.svg" width="100%" alt="Muhammad Abubakar — AI Engineer | Machine Learning | Python - developer" />
+</div>
+
+
 <div align="center">
 
 ```
