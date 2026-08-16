@@ -2,6 +2,8 @@
   <img src="./svg/header.svg" width="100%" alt="Muhammad Abubakar — AI & Machine Learning Developer" />
 </div>
 
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=%5B%E2%96%B6%5D+Hi%2C+I'm+Muhammad+Abubakar...;%5B%E2%96%B6%5D+Learning+Artificial+Intelligence...;%5B%E2%96%B6%5D+Building+Machine+Learning+Projects...;%5B%E2%96%B6%5D+Exploring+Computer+Vision+with+OpenCV+%26+YOLO...;%5B%E2%96%B6%5D+Turning+Ideas+into+Intelligent+Solutions." alt="Typing SVG" />
