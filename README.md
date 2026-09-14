@@ -126,15 +126,3 @@
 <p align="center"> <i>Learn the concept → Write the code → Break the code → Understand the logic → Build again.</i> </p>
 
 
-## 🧠 Topics Covered
-
-| # | 📚 Category | 📝 Topics |
-|---|------------|-----------|
-| 1 | 🔰 **HTML Fundamentals** | Document Structure, Headings, Paragraphs, Comments, Text Formatting, Attributes, Links, Images, Lists |
-| 2 | 🧩 **Forms & Input** | Forms, Input Fields, Labels, Buttons, Checkboxes, Radio Buttons, Select & Option, Textarea, Form Validation |
-| 3 | 📊 **Tables** | Table Structure, Rows & Columns, Table Headers, Table Borders, `colspan`, `rowspan` |
-| 4 | 🏗️ **Semantic HTML5** | `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>` |
-| 5 | 🎬 **Multimedia** | Audio, Video, Iframes, Embedded Content |
-| 6 | 🚀 **Advanced Concepts** | Meta Tags, SEO Basics, Accessibility, Responsive Structure, HTML5 APIs, Forms & Validation, Semantic Web Structure |
-
----
