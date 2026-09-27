@@ -132,15 +132,15 @@
 
 | 🛍️ Project 1 | 👁️ Project 2 | 🐾 Project 3 |
 |:---:|:---:|:---:|
-| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+| <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> |
 
 | 🤖 Project 4 | 📊 Project 5 | 🐍 Project 6 |
 |:---:|:---:|:---:|
-| <img src="IMAGE_LINK_4" width="300"> | <img src="IMAGE_LINK_5" width="300"> | <img src="IMAGE_LINK_6" width="300"> |
+| <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> |
 
 | 🎯 Project 7 | 🌐 Project 8 | 🧠 Project 9 |
 |:---:|:---:|:---:|
-| <img src="IMAGE_LINK_7" width="300"> | <img src="IMAGE_LINK_8" width="300"> | <img src="IMAGE_LINK_9" width="300"> |
+| <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> |
 
 </div>
 
