@@ -126,7 +126,7 @@
 <p align="center"> <i>Learn the concept → Write the code → Break the code → Understand the logic → Build again.</i> </p>
 
 
-## 📸 Projects
+<!--## 📸 Projects
 
 <div align="center">
 
@@ -141,6 +141,32 @@
 | 🎯 Project 7 | 🌐 Project 8 | 🧠 Project 9 |
 |:---:|:---:|:---:|
 | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> |
+
+</div> -->
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🛍️ **Ibbi's Collection** | 👁️ **Face Detection** | 🐾 **Zoo Classification** |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+| A modern e-commerce website built with HTML, CSS & JavaScript. | Real-time face, eyes & smile detection using OpenCV. | Animal data analysis and classification project using Python. |
+| [👀 View Project](PROJECT_LINK_1) | [👀 View Project](PROJECT_LINK_2) | [👀 View Project](PROJECT_LINK_3) |
+
+| 🤖 **Machine Learning** | 📊 **Data Analysis** | 🐍 **Python Project** |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_4" width="300"> | <img src="IMAGE_LINK_5" width="300"> | <img src="IMAGE_LINK_6" width="300"> |
+| Machine learning experiments covering preprocessing and model building. | Data exploration and visualization using Pandas, NumPy & Matplotlib. | Python-based project focused on programming and problem solving. |
+| [👀 View Project](PROJECT_LINK_4) | [👀 View Project](PROJECT_LINK_5) | [👀 View Project](PROJECT_LINK_6) |
+
+| 🎯 **Computer Vision** | 🌐 **Portfolio Website** | 🧠 **AI / ML Project** |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_7" width="300"> | <img src="IMAGE_LINK_8" width="300"> | <img src="IMAGE_LINK_9" width="300"> |
+| Computer vision project using OpenCV for real-world visual tasks. | Personal developer portfolio showcasing skills, projects & achievements. | AI/ML project exploring intelligent solutions with Python. |
+| [👀 View Project](PROJECT_LINK_7) | [👀 View Project](PROJECT_LINK_8) | [👀 View Project](PROJECT_LINK_9) |
 
 </div>
 
