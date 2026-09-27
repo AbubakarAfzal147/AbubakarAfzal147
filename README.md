@@ -126,5 +126,113 @@
 <p align="center"> <i>Learn the concept → Write the code → Break the code → Understand the logic → Build again.</i> </p>
 
 
+## 📸 Projects & Screenshots
 
+### 🛍️ Project 1 — Ibbi's Collection
+
+<div align="center">
+
+| Home Page | Products | Cart |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
+
+### 🐾 Project 2 — Zoo Animal Classification
+
+<div align="center">
+
+| Home | Dataset | Results |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
+
+### 👁️ Project 3 — Face & Smile Detection
+
+<div align="center">
+
+| Detection | Face | Smile |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
+
+### 🤖 Project 4 — Machine Learning
+
+<div align="center">
+
+| Data | Model | Prediction |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
+
+### 📊 Project 5 — Data Analysis
+
+<div align="center">
+
+| Dataset | Visualization | Analysis |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
+
+### 🐍 Project 6 — Python Project
+
+<div align="center">
+
+| Interface | Features | Output |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
+
+### 🎯 Project 7 — Computer Vision
+
+<div align="center">
+
+| Camera | Detection | Result |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
+
+### 🌐 Project 8 — Portfolio Website
+
+<div align="center">
+
+| Home | About | Projects |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
+
+### 🧠 Project 9 — AI / ML Project
+
+<div align="center">
+
+| Input | Processing | Output |
+|:---:|:---:|:---:|
+| <img src="IMAGE_LINK_1" width="300"> | <img src="IMAGE_LINK_2" width="300"> | <img src="IMAGE_LINK_3" width="300"> |
+
+</div>
+
+---
 
