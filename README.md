@@ -130,7 +130,7 @@
 
 <div align="center">
 
-| 🛍️ Project 1 | 👁️ Project 2 | 🐾 Project 3 |
+| Open cv Project |Python calculator  |Machine learning project |
 |:---:|:---:|:---:|
 | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> |
 
