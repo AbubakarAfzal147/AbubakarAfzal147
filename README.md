@@ -126,3 +126,17 @@
 <p align="center"> <i>Learn the concept → Write the code → Break the code → Understand the logic → Build again.</i> </p>
 
 
+
+## Projects
+
+<div align="center">
+
+| Zoology project | Python calculator | Eye detection |
+| Give | github | laptop |
+|:---:|:---:|:---:|
+|:---:|:---:|:---:|
+| ![Home](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png) | ![Products](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(612).png) | ![Cart](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(613).png) |
+
+</div>
+
+---
