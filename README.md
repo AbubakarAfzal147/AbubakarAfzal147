@@ -172,45 +172,6 @@
 
 ---
 
-ARTEX separates *what the goals are* from *how far testing has progressed* into two independent
-graphs linked by anchors:
 
-- **Asset graph (shared across tasks).** One source of truth for `root_domain / subdomain / ip /
-  service / app / endpoint`, owned by companies. Parent-child relationships and deduplication keys
-  are computed by the program; agents only submit raw observations.
-- **Exploration graph (per task).** The task's reasoning and progress: `goal / intent / fact /
-  finding / hint` nodes connected by `spawns / derived_from / yields / proves` edges into a lineage
-  chain.
-- **Anchors link them.** `exploration_anchors(node_id, asset_id)` ties intents, facts and findings
-  to concrete assets: which assets a direction touched, and which intents tested a given asset.
-  This also powers **asset test coverage** and the coverage graph.
-
-```mermaid
-flowchart LR
-  subgraph EG["Exploration graph (per-task · advance chain)"]
-    direction TB
-    G["goal"]
-    I1["intent A"]
-    F1["fact"]
-    I2["intent B"]
-    FD["finding (vulnerability)"]
-    G -->|spawns| I1
-    I1 -->|yields| F1
-    F1 -->|derived_from| I2
-    I2 -->|proves| FD
-  end
-  subgraph AG["Asset graph (globally shared · source of truth)"]
-    direction TB
-    RD["root_domain"]
-    SD["subdomain"]
-    SV["service"]
-    EP["endpoint"]
-    RD --> SD --> SV --> EP
-  end
-  I1 -. anchor .-> SD
-  F1 -. anchor .-> SV
-  I2 -. anchor .-> EP
-  FD -. anchor .-> EP
-```
 
 
