@@ -172,4 +172,32 @@
 
 ---
 
+```mermaid
+flowchart LR
+  subgraph EG["Exploration graph (per-task · advance chain)"]
+    direction TB
+    G["goal"]
+    I1["intent A"]
+    F1["fact"]
+    I2["intent B"]
+    FD["finding (vulnerability)"]
+    G -->|spawns| I1
+    I1 -->|yields| F1
+    F1 -->|derived_from| I2
+    I2 -->|proves| FD
+  end
+  subgraph AG["Asset graph (globally shared · source of truth)"]
+    direction TB
+    RD["root_domain"]
+    SD["subdomain"]
+    SV["service"]
+    EP["endpoint"]
+    RD --> SD --> SV --> EP
+  end
+  I1 -. anchor .-> SD
+  F1 -. anchor .-> SV
+  I2 -. anchor .-> EP
+  FD -. anchor .-> EP
+```
+
 
