@@ -176,7 +176,7 @@
 
 
 
-# PortfolioForge
+<!--# PortfolioForge
 
 Portfolio website templates to help beginners learn, customize, and build a personal portfolio.
 
@@ -300,10 +300,215 @@ If no license is provided, contact the author for permission. Public availabilit
 Muhammad Abubakar
 
 - GitHub: [Muhammad-Abubakar147](https://github.com/Muhammad-Abubakar147)
-- Portfolio: [muhammad-abubakar147.netlify.app](https://muhammad-abubakar147.netlify.app)
+- Portfolio: [muhammad-abubakar147.netlify.app](https://muhammad-abubakar147.netlify.app)-->
 
 
 
+
+<h1 align="center">100 Days of Machine Learning</h1>
+
+<p align="center">
+  A public log of my hands-on journey through Machine Learning, one day at a time.
+</p>
+
+<p align="center">
+  <img alt="Progress" src="https://img.shields.io/badge/Progress-28%2F100_Days-2ea44f">
+  <img alt="Status" src="https://img.shields.io/badge/Status-In_Progress-blue">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+</p>
+
+## Table of Contents
+
+- [About This Repository](#about-this-repository)
+- [Learning Progress](#learning-progress)
+- [Topics Covered](#topics-covered)
+- [Repository Structure](#repository-structure)
+- [Daily Learning Roadmap](#daily-learning-roadmap)
+- [Projects & Practical Implementations](#projects--practical-implementations)
+- [Technologies & Tools](#technologies--tools)
+- [Learning Philosophy](#learning-philosophy)
+- [Future Goals](#future-goals)
+- [Connect With Me](#connect-with-me)
+- [Acknowledgment](#acknowledgment)
+
+## About This Repository
+
+This repository documents my personal **100 Days of Machine Learning** challenge. I'm using it to strengthen my understanding of Machine Learning concepts, practice Python-based implementations, and build practical skills with real datasets.
+
+Every day has its own folder containing my lecture notes and, where relevant, Python scripts, Jupyter notebooks, datasets, and diagrams.
+
+This is an **ongoing, continuously evolving learning journey**, not a finished course. New days are added as I progress.
+
+## Learning Progress
+
+<!-- To update after each new day: change the badges at the top, the bar and table below, and the Daily Learning Roadmap table. -->
+
+```text
+28 / 100 days   ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░  28%
+```
+
+| Goal | Completed | Remaining | Status |
+| :---: | :---: | :---: | :---: |
+| 100 days | 28 days | 72 days | In progress |
+
+The repository is actively being updated as I continue the challenge.
+
+## Topics Covered
+
+**Machine Learning Foundations (Days 1–10)**
+- What Machine Learning is, and how it differs from explicit programming
+- AI vs Machine Learning vs Deep Learning
+- Types of ML: supervised, unsupervised, semi-supervised, reinforcement
+- Batch learning vs online learning
+- Instance-based vs model-based learning
+- Common challenges: data collection, insufficient or poor-quality data, irrelevant features, overfitting, underfitting
+- Real-world applications of ML
+- The ML development life cycle
+- Roles: data engineer, data scientist, data analyst, ML engineer
+
+**Tensors and Problem Framing (Days 11–13)**
+- 0D to 3D tensors with NumPy
+- A toy end-to-end ML project
+- Framing an ML problem (customer churn example)
+
+**Data Gathering (Days 14–16)**
+- Reading CSV files with pandas
+- Working with JSON data, and an introduction to SQL
+- Fetching data from a web API
+
+**Understanding Data and EDA (Days 17–20)**
+- First-look data inspection: shape, types, missing values, duplicates, summary statistics, correlation
+- Univariate EDA
+- Bivariate and multivariate EDA
+- Pandas Profiling (`ydata-profiling`), covered in notes
+
+**Feature Engineering (Days 21–22)**
+- Overview of feature transformation, construction, selection, and extraction
+- Why feature scaling matters, and standardization (z-score)
+
+## Repository Structure
+
+The repository currently contains folders for Days 1–22. Folders for Days 23–28 are being added, and each new day follows the same numbered-folder pattern.
+
+```text
+machine-learning/
+├── 01.Introduction of ML/                 # notes
+├── 02. AI vs ML vs DL/                    # notes
+├── 03.Types of ML/                        # notes
+├── 04. Batch ML/                          # notes
+├── 05. Online ML/                         # notes
+├── 06.Enstance based vs Model based/      # notes
+├── 07.Chanlleges in ML/                   # notes
+├── 08.Applictaion in ML/                  # notes
+├── 09.Ml life cycle/                      # notes
+├── 10. Data engr vs data scientist vs data analysis vs Ml engineer/   # notes
+├── 11. What are Tensors/                  # notes, NumPy scripts
+├── 12.End to end Ml project/              # notes, notebooks, datasets
+├── 13. How to frame Ml/                   # notes
+├── 14. How to gathering data/             # notes, notebook, dataset
+├── 15.Working with JSON and SQL/          # notes, notebook, JSON and SQL files
+├── 16.Fetching Data from API/             # notes, notebook, dataset
+├── 17.Understanding ur Data/              # notes, notebook, dataset
+├── 18.Exploratory Data Analysis EDA/      # notes, notebook, dataset
+├── 19.EDA with Bivariate & Multivariate/  # notes, notebook, dataset
+├── 20.Profiling Pandas/                   # notes
+├── 21.Feature Engineering/                # notes, diagrams
+├── 22.Feature Scalling/                   # notes, notebook, dataset, images
+├── What-is-ML.txt
+└── README.md
+```
+
+## Daily Learning Roadmap
+
+| Day | Topic | Status |
+| :---: | :--- | :---: |
+| 1 | [Introduction to ML](01.Introduction%20of%20ML) | ✅ Completed |
+| 2 | [AI vs ML vs DL](02.%20AI%20vs%20ML%20vs%20DL) | ✅ Completed |
+| 3 | [Types of ML](03.Types%20of%20ML) | ✅ Completed |
+| 4 | [Batch ML](04.%20Batch%20ML) | ✅ Completed |
+| 5 | [Online ML](05.%20Online%20ML) | ✅ Completed |
+| 6 | [Instance-based vs Model-based Learning](06.Enstance%20based%20vs%20Model%20based) | ✅ Completed |
+| 7 | [Challenges in ML](07.Chanlleges%20in%20ML) | ✅ Completed |
+| 8 | [Applications of ML](08.Applictaion%20in%20ML) | ✅ Completed |
+| 9 | [ML Development Life Cycle](09.Ml%20life%20cycle) | ✅ Completed |
+| 10 | [Data Engineer vs Data Scientist vs Data Analyst vs ML Engineer](10.%20Data%20engr%20vs%20data%20scientist%20vs%20data%20analysis%20vs%20Ml%20engineer) | ✅ Completed |
+| 11 | [What Are Tensors](11.%20What%20are%20Tensors) | ✅ Completed |
+| 12 | [End-to-End ML Project](12.End%20to%20end%20Ml%20project) | ✅ Completed |
+| 13 | [How to Frame an ML Problem](13.%20How%20to%20frame%20Ml) | ✅ Completed |
+| 14 | [How to Gather Data (CSV)](14.%20How%20to%20gathering%20data) | ✅ Completed |
+| 15 | [Working with JSON and SQL](15.Working%20with%20JSON%20and%20SQL) | ✅ Completed |
+| 16 | [Fetching Data from an API](16.Fetching%20Data%20from%20API) | ✅ Completed |
+| 17 | [Understanding Your Data](17.Understanding%20ur%20Data) | ✅ Completed |
+| 18 | [Exploratory Data Analysis (Univariate)](18.Exploratory%20Data%20Analysis%20EDA) | ✅ Completed |
+| 19 | [EDA: Bivariate and Multivariate](19.EDA%20with%20Bivariate%20%26%20Multivariate) | ✅ Completed |
+| 20 | [Pandas Profiling](20.Profiling%20Pandas) | ✅ Completed |
+| 21 | [Feature Engineering](21.Feature%20Engineering) | ✅ Completed |
+| 22 | [Feature Scaling](22.Feature%20Scalling) | ✅ Completed |
+| 23–28 | Materials being added to the repository | ✅ Completed |
+| 29–100 | To be covered | 🔜 Upcoming |
+
+## Projects & Practical Implementations
+
+Hands-on work currently in the repository:
+
+- **[NumPy tensor scripts](11.%20What%20are%20Tensors) (Day 11):** four small scripts building 0D, 1D, 2D, and 3D tensors and inspecting their dimensions and shape.
+- **[End-to-end toy ML project](12.End%20to%20end%20Ml%20project) (Day 12):** loads a study-hours vs scores dataset, visualizes it, separates features from the target, and applies a train/test split. A second notebook loads and previews a job-placement dataset.
+- **[Working with CSV files](14.%20How%20to%20gathering%20data) (Day 14):** reading CSVs with pandas, including the separator, header, and column-selection parameters.
+- **[Loading JSON data](15.Working%20with%20JSON%20and%20SQL) (Day 15):** reading JSON files into pandas. The folder also includes a sample MySQL `world` database dump.
+- **[Fetching data from an API](16.Fetching%20Data%20from%20API) (Day 16):** requests data from The Movie Database (TMDB) API, loops over multiple requests, converts the JSON into a DataFrame, and saves it as `Movies.csv`.
+- **[Understanding the Titanic dataset](17.Understanding%20ur%20Data) (Day 17):** a question-driven first look at a dataset: shape, data types, missing values, summary statistics, duplicates, and correlation.
+- **[Univariate EDA](18.Exploratory%20Data%20Analysis%20EDA) (Day 18):** count plots, histograms, box plots, and distribution plots on the Titanic dataset with Seaborn and Matplotlib.
+- **[Bivariate EDA](19.EDA%20with%20Bivariate%20%26%20Multivariate) (Day 19):** a Seaborn scatter plot that encodes extra variables with color, marker style, and size.
+- **[Feature scaling setup](22.Feature%20Scalling) (Day 22):** notes, diagrams, and a notebook that loads the Social Network Ads dataset in preparation for scaling.
+
+## Technologies & Tools
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C">
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
+</p>
+
+| Tool | Used for |
+| :--- | :--- |
+| Python | All scripts and notebooks |
+| Jupyter Notebook | Interactive notebooks (Days 12, 14–19, 22) |
+| NumPy | Tensors and array basics |
+| pandas | Loading, inspecting, and analyzing data |
+| Matplotlib and Seaborn | Data visualization and EDA |
+| scikit-learn | Train/test splitting (Day 12) |
+| Requests | Calling a web API (Day 16) |
+
+## Learning Philosophy
+
+I believe steady, practical effort beats occasional bursts of studying.
+
+- **Consistency:** learning a little every day compounds into real understanding.
+- **Practical implementation:** concepts only stick once I've written the code and worked with real data.
+- **Experimentation:** trying things, breaking them, and seeing what changes is where the learning happens.
+- **Continuous improvement:** every day builds on the last, and I keep revisiting and refining what I've learned.
+
+## Future Goals
+
+- Complete all 100 days of the challenge.
+- Explore additional Machine Learning concepts.
+- Build more practical projects.
+- Improve my problem-solving and implementation skills.
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/Muhammad-Abubakar147"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Muhammad--Abubakar147-181717?logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhammadabubakar147/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-muhammadabubakar147-0A66C2?logo=linkedin&logoColor=white"></a>
+</p>
+
+## Acknowledgment
+
+Learning never stops, and I'm sharing this journey openly to give back to the developer community. If this repository helps you on your own path, or you have suggestions, I'd love to hear from you.
 
 
 
